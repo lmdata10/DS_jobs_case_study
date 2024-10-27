@@ -19,4 +19,6 @@ Key insights from this case study include:
 ## 🧐 Concluding Thoughts
 Through this comprehensive analysis, I gained insights into the evolving landscape of data science roles and salaries. These findings can help both job seekers and companies better understand the current job market dynamics, from skill requirements to salary expectations.
 
---- 
+---
+
+*©2024 Digits & Dreams*
